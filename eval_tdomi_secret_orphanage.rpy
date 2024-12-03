@@ -97,7 +97,7 @@ label eval_secret_orphanage_game:
             m "Vara tentatively stretched her claw in my direction. I lightly hit it with my palm."
             show vara smsmile with dissolvemed
             m "She recoiled on impact, but after a moment of consideration, smiled."
-            Vr "My turn."
+            Vr smnormal "My turn."
             play sound "fx/goodhighfive.mp3"
             m "I stretched my palm and Vara hit my palm. Her claws made it a bit painful, but nothing intolerable."
             c "As high fives go, that was quite impressive."
